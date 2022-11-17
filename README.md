@@ -14,7 +14,7 @@
 
 ### 01 硬件安装及清单
 
-![image-20221107215741073](/media/hao007/something/github/Nokov-settings-for-SLAM-Groundtruth/README.assets/image-20221107215741073.png)
+![image-20221107215741073](README.assets/image-20221107215741073-1668689521342-3.png)
 
 **12个相机**
 
