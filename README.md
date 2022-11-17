@@ -1,0 +1,2 @@
+# Nokov-settings-for-SLAM-Groundtruth
+这是关于Nokov度量科技动作捕捉设备在获取机器人、无人机等姿态真值的设置说明，动作捕捉设备用于室内SLAM的真值获取可能是目前最佳方式，其精度可达压毫米级别
