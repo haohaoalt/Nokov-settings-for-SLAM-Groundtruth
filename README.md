@@ -1,10 +1,4 @@
-<!--
- * @Author: zhanghao
- * @Date: 2022-11-17 20:52:45
- * @LastEditTime: 2022-11-17 21:25:28
- * @FilePath: /Nokov-settings-for-SLAM-Groundtruth/README.md
- * @Description: 
--->
+
 # Nokov-settings-for-SLAM-Groundtruth
 
 ### 01 写在前面
